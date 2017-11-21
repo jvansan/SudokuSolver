@@ -51,7 +51,10 @@ def naive_solver(board):
                 cell_counter += 1
             else:
                 cell_counter -= 1
-
+        
+    # Check if solution or not
+    if cell_counter == 0:
+        raise ValueError("Board has no solution")
 
 def any_duplicates(board):
     """Check all rows, columns, and 9x9 squares for duplicates."""
