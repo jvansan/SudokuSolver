@@ -26,5 +26,4 @@ values should be input and blanks should be input as '0'.
 `python solve_sudoku.py input.file`
 
 ## Requirements:
-Python 3.5+
-Numpy 1.12.1+  
+See `requirements.txt`
