@@ -1,4 +1,4 @@
-# SudokuSolver
+# SudokuSolver [![Build Status](https://travis-ci.org/jvansan/SudokuSolver.svg?branch=master)](https://travis-ci.org/jvansan/SudokuSolver)
 A simple program for solving sudoku puzzles.
 
 Takes a simple representation of a board as an input. Samples can be found in the 
